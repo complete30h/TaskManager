@@ -1,0 +1,13 @@
+﻿  CourseWork.cpp
+C:\Users\1\Documents\GitHub\TaskManager\TaskManager\CourseWork\CourseWork.cpp(193,71): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\1\Documents\GitHub\TaskManager\TaskManager\CourseWork\CourseWork.cpp(194,73): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\1\Documents\GitHub\TaskManager\TaskManager\CourseWork\CourseWork.cpp(209,71): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\1\Documents\GitHub\TaskManager\TaskManager\CourseWork\CourseWork.cpp(210,73): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\1\Documents\GitHub\TaskManager\TaskManager\CourseWork\CourseWork.cpp(104,8): warning C4101: Data: неиспользованная локальная переменная
+C:\Users\1\Documents\GitHub\TaskManager\TaskManager\CourseWork\CourseWork.cpp(109,6): warning C4101: c: неиспользованная локальная переменная
+C:\Users\1\Documents\GitHub\TaskManager\TaskManager\CourseWork\CourseWork.cpp(106,7): warning C4101: rect: неиспользованная локальная переменная
+C:\Users\1\Documents\GitHub\TaskManager\TaskManager\CourseWork\CourseWork.cpp(103,6): warning C4101: Index: неиспользованная локальная переменная
+C:\Users\1\Documents\GitHub\TaskManager\TaskManager\CourseWork\CourseWork.cpp(287,24): warning C4101: currentProcess: неиспользованная локальная переменная
+C:\Users\1\Documents\GitHub\TaskManager\TaskManager\CourseWork\CourseWork.cpp(322,8): warning C4101: s: неиспользованная локальная переменная
+C:\Users\1\Documents\GitHub\TaskManager\TaskManager\CourseWork\CourseWork.cpp(512,9): warning C4101: chCPU: неиспользованная локальная переменная
+  CourseWork.vcxproj -> C:\Users\1\Documents\GitHub\TaskManager\TaskManager\Debug\CourseWork.exe

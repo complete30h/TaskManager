@@ -1,0 +1,31 @@
+﻿  CourseWork.cpp
+C:\Users\1\source\repos\CourseWork\CourseWork\CourseWork.cpp(101,65): warning C4311: приведение типов: усечение указателя из "const wchar_t *" в "DWORD"
+C:\Users\1\source\repos\CourseWork\CourseWork\CourseWork.cpp(101,65): warning C4302: приведение типов: усечение из "const wchar_t *" к "DWORD"
+C:\Users\1\source\repos\CourseWork\CourseWork\CourseWork.cpp(101,18): warning C4244: =: преобразование "LRESULT" в "int", возможна потеря данных
+C:\Users\1\source\repos\CourseWork\CourseWork\CourseWork.cpp(103,60): warning C4311: приведение типов: усечение указателя из "const wchar_t *" в "DWORD"
+C:\Users\1\source\repos\CourseWork\CourseWork\CourseWork.cpp(103,60): warning C4302: приведение типов: усечение из "const wchar_t *" к "DWORD"
+C:\Users\1\source\repos\CourseWork\CourseWork\CourseWork.cpp(103,18): warning C4244: =: преобразование "LRESULT" в "int", возможна потеря данных
+C:\Users\1\source\repos\CourseWork\CourseWork\CourseWork.cpp(105,68): warning C4311: приведение типов: усечение указателя из "const wchar_t *" в "DWORD"
+C:\Users\1\source\repos\CourseWork\CourseWork\CourseWork.cpp(105,68): warning C4302: приведение типов: усечение из "const wchar_t *" к "DWORD"
+C:\Users\1\source\repos\CourseWork\CourseWork\CourseWork.cpp(105,18): warning C4244: =: преобразование "LRESULT" в "int", возможна потеря данных
+C:\Users\1\source\repos\CourseWork\CourseWork\CourseWork.cpp(107,62): warning C4311: приведение типов: усечение указателя из "const wchar_t *" в "DWORD"
+C:\Users\1\source\repos\CourseWork\CourseWork\CourseWork.cpp(107,62): warning C4302: приведение типов: усечение из "const wchar_t *" к "DWORD"
+C:\Users\1\source\repos\CourseWork\CourseWork\CourseWork.cpp(107,18): warning C4244: =: преобразование "LRESULT" в "int", возможна потеря данных
+C:\Users\1\source\repos\CourseWork\CourseWork\CourseWork.cpp(109,68): warning C4311: приведение типов: усечение указателя из "const wchar_t *" в "DWORD"
+C:\Users\1\source\repos\CourseWork\CourseWork\CourseWork.cpp(109,68): warning C4302: приведение типов: усечение из "const wchar_t *" к "DWORD"
+C:\Users\1\source\repos\CourseWork\CourseWork\CourseWork.cpp(109,18): warning C4244: =: преобразование "LRESULT" в "int", возможна потеря данных
+C:\Users\1\source\repos\CourseWork\CourseWork\CourseWork.cpp(111,59): warning C4311: приведение типов: усечение указателя из "const wchar_t *" в "DWORD"
+C:\Users\1\source\repos\CourseWork\CourseWork\CourseWork.cpp(111,59): warning C4302: приведение типов: усечение из "const wchar_t *" к "DWORD"
+C:\Users\1\source\repos\CourseWork\CourseWork\CourseWork.cpp(111,18): warning C4244: =: преобразование "LRESULT" в "int", возможна потеря данных
+C:\Users\1\source\repos\CourseWork\CourseWork\CourseWork.cpp(135,28): warning C4244: =: преобразование "LRESULT" в "int", возможна потеря данных
+C:\Users\1\source\repos\CourseWork\CourseWork\CourseWork.cpp(144,20): warning C4244: инициализация: преобразование "LRESULT" в "int", возможна потеря данных
+C:\Users\1\source\repos\CourseWork\CourseWork\CourseWork.cpp(153,20): warning C4244: инициализация: преобразование "LRESULT" в "int", возможна потеря данных
+C:\Users\1\source\repos\CourseWork\CourseWork\CourseWork.cpp(87,8): warning C4101: Data: неиспользованная локальная переменная
+C:\Users\1\source\repos\CourseWork\CourseWork\CourseWork.cpp(86,6): warning C4101: Index: неиспользованная локальная переменная
+C:\Users\1\source\repos\CourseWork\CourseWork\CourseWork.cpp(190,10): warning C4244: инициализация: преобразование "LRESULT" в "int", возможна потеря данных
+C:\Users\1\source\repos\CourseWork\CourseWork\CourseWork.cpp(177,24): warning C4101: currentProcess: неиспользованная локальная переменная
+C:\Users\1\source\repos\CourseWork\CourseWork\CourseWork.cpp(205,18): warning C4101: maxphmem: неиспользованная локальная переменная
+C:\Users\1\source\repos\CourseWork\CourseWork\CourseWork.cpp(207,8): warning C4101: s: неиспользованная локальная переменная
+C:\Users\1\source\repos\CourseWork\CourseWork\CourseWork.cpp(205,8): warning C4101: minphmem: неиспользованная локальная переменная
+C:\Users\1\source\repos\CourseWork\CourseWork\CourseWork.cpp(259): warning C4715: ProcessesInfo: значение возвращается не при всех путях выполнения
+  CourseWork.vcxproj -> C:\Users\1\source\repos\CourseWork\x64\Debug\CourseWork.exe
